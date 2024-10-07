@@ -4,3 +4,5 @@
 *patatas
 *cebolla 
 *aceite de oliva
+*sal
+**instrucciones**
